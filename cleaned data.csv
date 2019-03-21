@@ -1,0 +1,349 @@
+name,review_count,average_review,food_review,service_review,ambience_review,value_review,price_range,star_1,star_2,star_3,star_4,star_5,restaurant_main_type,star,neighborhood
+Ai Fiori,3794,4.63794,4.6,4.6,4.6,4.1,$31 to $50,1,2,4,17,76,Other Europe,1.0,Chelsea and Clinton
+Aureole,3346,4.53346,4.4,4.4,4.4,3.9,$31 to $50,1,3,9,25,62,American,1.0,Chelsea and Clinton
+Batard,913,4.6913,4.7,4.5,4.4,4.2,$50 and over,0,2,4,20,74,Other Europe,1.0,Greenwich Village and Soho
+Cafe Boulud,5194,4.65194,4.5,4.5,4.5,4.0,$50 and over,1,2,7,16,74,French,1.0,Upper East Side
+Gotham Bar and Grill,8591,4.785909999999999,4.7,4.6,4.6,4.2,$50 and over,1,1,4,15,79,Contemporary American,1.0,Lower East Side
+Junoon,2027,4.52027,4.5,4.4,4.5,3.8,$50 and over,2,2,11,19,66,Indian,1.0,Gramercy Park and Murray Hill
+Nix,1130,4.7113,4.7,4.4,4.5,4.1,$31 to $50,0,1,5,18,76,Other,1.0,Lower East Side
+Rouge Tomate Chelsea,190,4.519,4.4,4.4,4.4,3.9,$31 to $50,2,3,9,23,63,Contemporary American,1.0,Chelsea and Clinton
+The Clocktower,1019,4.510190000000001,4.4,4.3,4.5,3.8,$50 and over,1,2,8,22,67,Other Europe,1.0,Gramercy Park and Murray Hill
+The Musket Room,768,4.8768,4.7,4.7,4.6,4.2,$31 to $50,0,1,3,15,81,Other,1.0,Greenwich Village and Soho
+.Tarallucci e Vino Union Square,582,4.4582,4.4,4.2,4.2,4.0,$31 to $50,2,3,8,23,64,Italian,0.0,Lower East Side
+.Tarallucci e Vino Upper West Side,50,4.55,4.3,4.4,4.3,4.0,$31 to $50,0,5,4,30,61,Italian,0.0,Upper West Side
+1 Darbar,516,4.4516,4.4,4.2,3.9,4.2,$30 and under,0,4,8,33,55,Indian,0.0,Gramercy Park and Murray Hill
+2 Darbar Grill,316,4.5316,4.6,4.5,4.1,4.3,$30 and under,0,5,5,24,66,Indian,0.0,Gramercy Park and Murray Hill
+21 Club,3262,4.73262,4.6,4.7,4.7,4.1,$50 and over,0,2,4,15,79,American,0.0,Chelsea and Clinton
+ABC Cocina,2171,4.72171,4.6,4.3,4.6,4.0,$30 and under,1,2,4,17,76,Other,0.0,Lower East Side
+ABC Kitchen,6031,4.76031,4.6,4.4,4.6,4.1,$31 to $50,1,2,5,15,77,Contemporary American,0.0,Lower East Side
+Almond,2137,4.62137,4.4,4.2,4.4,4.1,$31 to $50,1,2,6,19,72,Other,0.0,Gramercy Park and Murray Hill
+Altesi Downtown,558,4.5558,4.5,4.4,4.3,4.2,$31 to $50,0,3,8,20,69,Italian,0.0,Greenwich Village and Soho
+Altesi Ristorante,390,4.539,4.5,4.5,4.4,4.1,$31 to $50,1,3,8,19,69,Italian,0.0,Upper East Side
+American Cut Steakhouse,791,4.6791,4.6,4.6,4.5,4.0,$31 to $50,1,3,4,17,75,Steakhouse,0.0,Greenwich Village and Soho
+American Cut Steakhouse Midtown,389,4.6389,4.6,4.5,4.4,3.9,$31 to $50,2,1,7,16,74,Steakhouse,0.0,Gramercy Park and Murray Hill
+Amma,1336,4.61336,4.7,4.5,4.1,4.3,$31 to $50,0,1,4,27,68,Indian,0.0,Gramercy Park and Murray Hill
+Ammos Estiatorio,3773,4.63773,4.5,4.5,4.4,4.2,$31 to $50,0,2,6,25,67,Seafood,0.0,Gramercy Park and Murray Hill
+Anassa Taverna,864,4.5864,4.4,4.2,4.2,4.0,$31 to $50,1,2,8,26,63,Greek,0.0,Gramercy Park and Murray Hill
+Aretsky's Patroon,908,4.7908,4.7,4.7,4.6,4.2,$31 to $50,1,1,2,17,79,American,0.0,Gramercy Park and Murray Hill
+Armani Ristorante 5th Avenue,1087,4.71087,4.6,4.6,4.6,4.2,$31 to $50,0,2,5,18,75,Italian,0.0,Gramercy Park and Murray Hill
+Astor Court,263,4.5263,4.5,4.3,4.7,3.8,$31 to $50,1,4,4,20,71,Other,0.0,Gramercy Park and Murray Hill
+Atlantic Grill Near Lincoln Center,5246,4.452459999999999,4.3,4.2,4.2,3.9,$31 to $50,1,4,8,32,55,Seafood,0.0,Upper West Side
+ATRIO Wine Bar & Restaurant,215,4.6215,4.6,4.8,4.7,4.1,$31 to $50,3,2,3,19,73,Contemporary American,0.0,
+BAAR BAAR,115,4.5115,4.5,4.2,4.6,4.0,$31 to $50,1,4,7,20,68,Indian,0.0,Lower East Side
+Bagatelle - NY,429,4.4429,4.3,4.2,4.3,3.9,$31 to $50,3,5,10,17,65,French,0.0,Greenwich Village and Soho
+Bann Restaurant,1249,4.61249,4.5,4.5,4.3,4.3,$31 to $50,0,3,4,23,70,Japanese & Koren,0.0,Chelsea and Clinton
+Bar Boulud,6814,4.46814,4.4,4.3,4.1,3.9,$30 and under,1,3,8,27,61,French,0.0,Upper West Side
+Bar Freud,196,4.4196,4.4,4.2,4.4,4.3,$31 to $50,1,3,11,25,60,Other Europe,0.0,Greenwich Village and Soho
+Bar Italia,454,4.6454,4.5,4.5,4.4,4.0,$31 to $50,1,1,7,18,73,Italian,0.0,Upper East Side
+Bar Primi,794,4.6794,4.6,4.3,4.5,4.1,$30 and under,1,1,6,18,74,Italian,0.0,Lower East Side
+Barano,234,4.7234,4.7,4.6,4.6,4.3,$30 and under,0,1,5,14,80,Italian,0.0,
+Barbetta Restaurant,3225,4.23225,4.2,4.2,4.5,3.8,$31 to $50,3,6,11,25,55,Italian,0.0,Chelsea and Clinton
+Barbounia,2279,4.62279,4.5,4.3,4.4,4.1,$30 and under,1,2,7,20,70,Mediterranean,0.0,Lower East Side
+Barraca,750,4.475,4.3,4.0,4.3,4.0,$31 to $50,2,3,9,24,62,Spanish,0.0,Greenwich Village and Soho
+Beauty & Essex- New York,5452,4.65452,4.6,4.5,4.7,4.2,$31 to $50,1,2,5,17,75,Other,0.0,Lower East Side
+Becco,18139,4.418139,4.4,4.4,4.1,4.3,$30 and under,1,3,9,27,60,Italian,0.0,Gramercy Park and Murray Hill
+Bedford & Co.,379,4.5379,4.4,4.2,4.2,4.1,$31 to $50,0,4,8,22,66,Contemporary American,0.0,Gramercy Park and Murray Hill
+Ben and Jack's Steakhouse 44th Street,714,4.6714,4.6,4.7,4.4,4.2,$50 and over,0,2,7,17,74,Steakhouse,0.0,Gramercy Park and Murray Hill
+Benchmark Restaurant,836,4.5836,4.5,4.4,4.4,4.1,$31 to $50,2,2,8,23,65,Contemporary American,0.0,
+Benjamin Steakhouse Prime,356,4.8356,4.7,4.8,4.6,4.3,$50 and over,0,1,4,13,82,American,0.0,Gramercy Park and Murray Hill
+Benoit Restaurant and Wine Bar,3170,4.5317,4.5,4.4,4.4,4.0,$31 to $50,1,3,8,24,64,French,0.0,Chelsea and Clinton
+Bistrot Leo,16,4.316,4.2,4.1,4.3,3.8,$31 to $50,4,6,10,17,63,French,0.0,Greenwich Village and Soho
+Blenheim,388,4.3388,4.2,4.1,4.3,3.8,$31 to $50,2,7,9,19,63,Contemporary American,0.0,Greenwich Village and Soho
+Blue Fin - New York,6558,4.3655800000000005,4.4,4.3,4.2,3.8,$31 to $50,1,3,10,31,55,Seafood,0.0,Chelsea and Clinton
+Blue Water Grill,5011,4.55011,4.4,4.3,4.4,3.9,$31 to $50,2,3,6,25,64,Seafood,0.0,Lower East Side
+Bobby Van's Grill - 50th Street,1744,4.61744,4.4,4.6,4.3,4.0,$31 to $50,0,3,6,23,68,American,0.0,Chelsea and Clinton
+Bobby Van's Grill Times Square,1095,4.31095,4.3,4.3,4.2,3.9,$50 and over,2,7,10,19,62,American,0.0,Chelsea and Clinton
+Bobby Van's Steakhouse - 54th Street,897,4.7897,4.6,4.5,4.4,4.2,$31 to $50,2,2,2,15,79,Steakhouse,0.0,
+Bobby Van's Steakhouse - Broad Street,768,4.4768,4.4,4.3,4.3,3.9,$31 to $50,0,1,18,19,62,Steakhouse,0.0,Lower Manhattan
+Bobo Restaurant,1108,4.71108,4.5,4.5,4.6,4.3,$30 and under,0,1,5,20,74,French,0.0,Greenwich Village and Soho
+Bob's Steak & Chop House-New York,117,4.6117,4.6,4.7,4.5,4.3,$50 and over,1,1,3,21,74,Steakhouse,0.0,Gramercy Park and Murray Hill
+Bocca,1561,4.41561,4.4,4.4,4.1,4.0,$30 and under,1,3,10,25,61,Italian,0.0,Lower East Side
+Bocca Di Bacco (Chelsea - 20th St.),445,4.2445,4.2,3.9,4.1,3.9,$30 and under,2,5,14,28,51,Italian,0.0,Chelsea and Clinton
+Bocca di Bacco (Hell's Kitchen - 54th St.),1627,4.61627,4.6,4.5,4.4,4.3,$30 and under,0,1,6,26,67,Italian,0.0,Chelsea and Clinton
+Bocca Di Bacco (Theatre District - 45th St.),1957,4.419569999999999,4.5,4.4,4.2,4.1,$30 and under,1,1,7,32,59,Italian,0.0,Chelsea and Clinton
+Bodega Negra,661,4.6661,4.5,4.3,4.5,4.1,$50 and over,1,4,6,14,75,Mexican,0.0,Chelsea and Clinton
+Boucherie - Park Avenue South,128,4.3128,4.2,4.2,4.4,3.8,$31 to $50,2,4,10,25,59,French,0.0,Lower East Side
+Boucherie - West Village,546,4.4546,4.3,4.0,4.4,3.8,$31 to $50,2,3,10,24,61,French,0.0,Greenwich Village and Soho
+Boulud Sud,4853,4.64853,4.6,4.5,4.4,4.1,$50 and over,1,2,6,20,71,Mediterranean,0.0,Upper West Side
+Brasserie 8 1/2,3619,4.53619,4.4,4.5,4.5,4.3,$31 to $50,1,2,7,29,61,French,0.0,Chelsea and Clinton
+Brasserie Cognac,1476,4.1147599999999995,4.1,3.9,4.0,3.8,$31 to $50,3,6,13,34,44,French,0.0,Chelsea and Clinton
+Brasserie Ruhlmann,1360,4.5136,4.4,4.2,4.4,3.8,$31 to $50,1,1,8,26,64,French,0.0,Chelsea and Clinton
+Brasserie Seoul,20,3.82,4.1,3.6,3.9,3.6,$30 and under,9,9,17,22,43,French,0.0,
+Bread & Tulips,472,4.5472,4.4,4.2,4.3,4.2,$30 and under,0,0,11,32,57,Italian,0.0,Gramercy Park and Murray Hill
+Burke & Wills,516,4.6516,4.5,4.6,4.6,4.1,$31 to $50,1,2,5,25,67,Other,0.0,Upper West Side
+Butter Midtown,3135,4.23135,4.2,4.1,4.3,3.7,$31 to $50,2,7,13,22,56,Contemporary American,0.0,Chelsea and Clinton
+Buttermilk Channel,524,4.7524,4.7,4.7,4.6,4.4,$31 to $50,1,1,2,16,80,American,0.0,
+Cafe Centro,2006,4.52006,4.3,4.4,4.3,3.9,$31 to $50,0,2,9,28,61,French,0.0,
+Cafe d'Alsace,1664,4.41664,4.4,4.2,4.2,4.1,$31 to $50,0,2,10,32,56,French,0.0,Upper East Side
+Calle Ocho,3465,4.33465,4.3,4.2,4.3,4.1,$31 to $50,3,3,10,26,58,Spanish,0.0,Upper West Side
+Casa Lever,1092,4.71092,4.6,4.6,4.6,4.1,$50 and over,1,1,4,16,78,Italian,0.0,Gramercy Park and Murray Hill
+Casa Nonna - Midtown,1721,4.5172099999999995,4.4,4.4,4.4,4.0,$31 to $50,0,2,8,29,61,Italian,0.0,Gramercy Park and Murray Hill
+Catch New York,4830,4.5483,4.6,4.2,4.4,4.0,$31 to $50,3,2,6,15,74,Seafood,0.0,Greenwich Village and Soho
+'Cesca,2749,4.12749,4.1,3.8,4.1,3.7,$31 to $50,4,7,14,26,49,Italian,0.0,Upper West Side
+Charlie Palmer at The Knick,315,4.3315,4.1,4.1,4.3,3.6,$31 to $50,2,4,13,26,55,Contemporary American,0.0,Chelsea and Clinton
+Charlie Palmer Steak,450,4.545,4.4,4.4,4.2,4.1,$31 to $50,1,3,10,19,67,Steakhouse,0.0,Chelsea and Clinton
+Chazz Palminteri Italian Restaurant,764,4.5764,4.6,4.6,4.4,4.2,$50 and over,2,2,6,24,66,Italian,0.0,Chelsea and Clinton
+Chez Josephine,4702,4.447019999999999,4.3,4.3,4.6,4.1,$31 to $50,1,4,8,27,60,French,0.0,Chelsea and Clinton
+Churrascaria Plataforma Brazilian Steakhouse,1918,4.61918,4.6,4.6,4.4,4.2,$50 and over,1,1,5,20,73,Steakhouse,0.0,Chelsea and Clinton
+Cipriani - Dolci,1112,4.4111199999999995,4.3,4.2,4.3,3.7,$31 to $50,3,3,8,23,63,Italian,0.0,Gramercy Park and Murray Hill
+Cipriani - Wall Street,537,4.6537,4.5,4.5,4.5,4.0,$31 to $50,2,4,4,19,71,Italian,0.0,
+Claudette,987,4.6987,4.6,4.4,4.7,4.2,$30 and under,1,1,4,20,74,French,0.0,Chelsea and Clinton
+Clement,506,4.7506,4.6,4.7,4.7,4.1,$31 to $50,1,3,2,16,78,American,0.0,Chelsea and Clinton
+Cleo At MONDRIAN PARK AVENUE,68,4.5680000000000005,4.6,4.2,4.4,4.1,$31 to $50,0,3,7,23,67,Mediterranean,0.0,Gramercy Park and Murray Hill
+Club A Steakhouse,3371,4.83371,4.7,4.8,4.7,4.6,$31 to $50,1,1,4,10,84,Steakhouse,0.0,Gramercy Park and Murray Hill
+Craft,5098,4.75098,4.7,4.7,4.6,4.1,$50 and over,1,2,4,14,79,American,0.0,Lower East Side
+CUT By Wolfgang Puck at FS Downtown New York,364,4.6364,4.5,4.5,4.3,3.8,$31 to $50,1,2,7,19,71,Steakhouse,0.0,Lower Manhattan
+DaDong NY,342,4.1342,4.0,4.1,4.3,3.4,$31 to $50,5,7,11,23,54,Chinese,0.0,Chelsea and Clinton
+Danji,595,4.7595,4.7,4.5,4.3,4.2,$31 to $50,0,1,5,21,73,Japanese & Koren,0.0,Chelsea and Clinton
+David Burke Kitchen,2612,4.22612,4.3,3.9,4.1,3.8,$31 to $50,5,2,12,25,56,American,0.0,Greenwich Village and Soho
+Davio's Northern Italian Steakhouse - Manhattan,736,4.6736,4.5,4.5,4.4,4.1,$31 to $50,0,1,6,24,69,Steakhouse,0.0,Gramercy Park and Murray Hill
+db Bistro moderne,6428,4.4642800000000005,4.4,4.5,4.3,3.9,$31 to $50,1,2,9,26,62,French,0.0,Chelsea and Clinton
+Del Frisco's Double Eagle Steak House - New York City,7225,4.77225,4.6,4.7,4.5,4.0,$50 and over,1,2,5,16,76,Steakhouse,0.0,Chelsea and Clinton
+Delmonico's,3792,4.73792,4.7,4.6,4.6,4.2,$50 and over,1,2,4,17,76,Steakhouse,0.0,Lower Manhattan
+Delmonico's Kitchen,1203,4.412030000000001,4.3,4.3,4.1,3.8,$31 to $50,2,4,8,27,59,American,0.0,Chelsea and Clinton
+Docks Oyster Bar and Seafood Grill,2045,4.42045,4.3,4.2,4.3,3.9,$31 to $50,1,5,8,26,60,Seafood,0.0,Gramercy Park and Murray Hill
+Dos Caminos - Park,1630,4.4163,4.3,4.0,4.2,4.0,$31 to $50,2,4,9,26,59,Mexican,0.0,Gramercy Park and Murray Hill
+Dos Caminos - SoHo,944,4.2944,4.0,3.6,4.0,3.6,$31 to $50,4,6,11,24,55,Mexican,0.0,Greenwich Village and Soho
+Dos Caminos - Third Avenue,2396,4.32396,4.1,3.8,4.0,3.7,$31 to $50,2,5,10,25,58,Mexican,0.0,Gramercy Park and Murray Hill
+Dos Caminos - Times Square,877,4.3877,4.2,4.1,3.9,3.7,$31 to $50,1,5,12,30,52,Mexican,0.0,Chelsea and Clinton
+Dos Caminos – Meatpacking,1291,4.31291,4.2,3.8,4.1,3.8,$31 to $50,4,3,10,23,60,Mexican,0.0,Greenwich Village and Soho
+Edi and The Wolf,306,4.5306,4.3,4.4,4.5,4.1,$30 and under,1,3,9,21,66,Other Europe,0.0,Lower East Side
+El Toro Blanco,518,4.2518,4.0,3.6,4.1,3.6,$31 to $50,4,8,12,24,52,Mexican,0.0,Greenwich Village and Soho
+El Vez New York,747,4.6747,4.5,4.4,4.4,4.1,$30 and under,1,2,5,20,72,Mexican,0.0,
+Empellon Midtown,502,4.6502,4.5,4.5,4.4,3.8,$31 to $50,1,2,7,21,69,Mexican,0.0,Gramercy Park and Murray Hill
+Empellon Taqueria,1432,4.614319999999999,4.5,4.5,4.4,4.0,$31 to $50,1,2,6,19,72,Mexican,0.0,Greenwich Village and Soho
+Empire Steak House- East,307,4.4307,4.4,4.7,4.6,4.0,$50 and over,0,5,11,20,64,Steakhouse,0.0,Gramercy Park and Murray Hill
+Empire Steakhouse - 237 West 54 Street off of Broadway,683,4.4683,4.4,4.5,4.3,3.9,$50 and over,2,3,14,18,63,Steakhouse,0.0,Chelsea and Clinton
+Esca,4874,4.34874,4.3,4.3,4.2,3.6,$30 and under,3,5,12,25,55,Italian,0.0,Chelsea and Clinton
+Essex,2167,4.32167,4.2,4.2,4.0,4.1,$30 and under,2,4,11,24,59,Other,0.0,Lower East Side
+Estiatorio Milos - NY,4404,4.844040000000001,4.8,4.6,4.6,4.2,$50 and over,1,1,3,14,81,Seafood,0.0,Chelsea and Clinton
+Etcetera Etcetera,2714,4.62714,4.6,4.6,4.4,4.2,$31 to $50,0,1,6,27,66,Italian,0.0,Chelsea and Clinton
+Farmer & The Fish - Gramercy,463,4.3463,4.2,4.0,4.1,3.8,$30 and under,3,5,9,25,58,Other,0.0,Lower East Side
+Feast,554,4.6554,4.6,4.7,4.6,4.3,$31 to $50,0,0,4,26,70,Contemporary American,0.0,Lower East Side
+Felice 15 Gold Street,454,4.6454,4.5,4.5,4.4,4.2,$31 to $50,0,1,5,28,66,Italian,0.0,Lower Manhattan
+Felice 64 Wine Bar,114,4.7114,4.6,4.6,4.6,4.4,$31 to $50,0,1,1,24,74,Italian,0.0,Upper East Side
+Felidia,4613,4.74613,4.7,4.7,4.4,4.2,$31 to $50,1,1,5,18,75,Italian,0.0,Gramercy Park and Murray Hill
+Fifty,325,4.6325,4.6,4.5,4.4,4.1,$31 to $50,0,1,3,25,71,Contemporary American,0.0,Greenwich Village and Soho
+FIG & OLIVE Fifth Avenue,7186,4.57186,4.5,4.3,4.2,4.0,$31 to $50,1,3,7,25,64,Mediterranean,0.0,Upper East Side
+FIG & OLIVE Meatpacking,5752,4.65752,4.5,4.3,4.6,4.2,$31 to $50,1,2,6,21,70,Mediterranean,0.0,Greenwich Village and Soho
+FIG & OLIVE Uptown,2140,4.4214,4.2,4.2,4.1,3.9,$31 to $50,4,2,8,23,63,Mediterranean,0.0,Upper East Side
+Fogo de Chao Brazilian Steakhouse - New York,1772,4.617719999999999,4.6,4.5,4.4,4.1,$50 and over,0,1,7,22,70,Steakhouse,0.0,Chelsea and Clinton
+Fonda - East Village,529,4.5529,4.4,4.3,4.2,4.1,$31 to $50,0,3,9,18,70,Mexican,0.0,Lower East Side
+Frankie & Johnnie's Steakhouse - Manhattan,1421,4.41421,4.4,4.5,4.3,3.9,$31 to $50,1,5,9,23,62,Steakhouse,0.0,Chelsea and Clinton
+Frankie and Johnnie's Steakhouse - 46th Street,550,4.355,4.3,4.4,4.2,3.9,$31 to $50,1,5,12,25,57,Steakhouse,0.0,Chelsea and Clinton
+Gabriel's Bar & Restaurant,776,4.5776,4.5,4.4,4.3,4.0,$50 and over,1,2,7,23,67,Italian,0.0,Upper West Side
+Gaby Brasserie Française,566,4.3566,4.2,4.4,4.3,4.1,$31 to $50,1,2,14,29,54,French,0.0,Chelsea and Clinton
+Gallaghers Steakhouse - Manhattan,5020,4.6502,4.7,4.7,4.6,4.2,$50 and over,1,1,5,19,74,Steakhouse,0.0,Chelsea and Clinton
+GAONNURI,1830,4.5183,4.4,4.3,4.6,4.0,$31 to $50,1,2,7,24,66,Japanese & Koren,0.0,Chelsea and Clinton
+Gin Parlour - InterContinental New York,50,3.75,3.2,3.4,3.3,2.6,$30 and under,0,17,26,22,35,Contemporary American,0.0,Gramercy Park and Murray Hill
+Giorgio's of Gramercy,2089,4.72089,4.6,4.7,4.6,4.3,$31 to $50,0,1,5,18,76,Contemporary American,0.0,Gramercy Park and Murray Hill
+Glass House Tavern,3642,4.3364199999999995,4.3,4.4,4.1,4.0,$31 to $50,0,3,11,37,49,Contemporary American,0.0,Chelsea and Clinton
+Gran Morsi,266,4.6266,4.5,4.4,4.5,4.1,$31 to $50,0,1,9,20,70,Italian,0.0,Lower Manhattan
+Green Fig,176,3.9176,3.9,4.0,3.9,3.6,$31 to $50,4,11,14,33,38,Mediterranean,0.0,Chelsea and Clinton
+Greenhouse Cafe,86,4.686,4.5,4.6,4.4,4.6,$30 and under,0,0,5,33,62,Other,0.0,
+Greenwich Steakhouse,148,4.4148,4.3,4.5,4.1,4.0,$50 and over,3,4,9,18,66,Steakhouse,0.0,Chelsea and Clinton
+Hakkasan - New York,2492,4.6249199999999995,4.6,4.4,4.5,4.0,$50 and over,1,1,7,20,71,Chinese,0.0,Chelsea and Clinton
+Hanjan,259,4.6259,4.5,4.3,4.3,3.9,$31 to $50,1,1,6,22,70,Japanese & Koren,0.0,Gramercy Park and Murray Hill
+Haru Hell's Kitchen,82,4.482,4.3,4.3,4.2,4.0,$31 to $50,0,4,8,29,59,Japanese & Koren,0.0,Chelsea and Clinton
+Haru Sushi - Amsterdam Ave,63,4.563,4.3,4.2,4.0,3.9,$31 to $50,0,1,9,31,59,Japanese & Koren,0.0,Upper West Side
+Harvey @ The Williamsburg Hotel,35,4.335,4.0,4.1,4.5,4.1,$30 and under,1,4,11,35,49,Contemporary American,0.0,
+Hearth,2270,4.7227,4.7,4.5,4.6,4.2,$50 and over,0,2,3,17,78,American,0.0,Lower East Side
+High Street on Hudson,368,4.5368,4.3,4.2,4.3,3.9,$31 to $50,0,5,8,22,65,Contemporary American,0.0,Greenwich Village and Soho
+Hunt & Fish Club NYC,1075,4.61075,4.6,4.5,4.5,4.0,$50 and over,1,2,6,18,73,Steakhouse,0.0,Chelsea and Clinton
+I Trulli,2088,4.52088,4.5,4.6,4.4,4.2,$31 to $50,0,1,10,24,65,Italian,0.0,Gramercy Park and Murray Hill
+Il Buco Alimentari & Vineria,2011,4.72011,4.6,4.5,4.5,4.1,$31 to $50,1,2,4,18,75,Italian,0.0,Greenwich Village and Soho
+Il Cantinori,1431,4.71431,4.7,4.6,4.7,4.3,$50 and over,0,1,5,13,81,Italian,0.0,Lower East Side
+Il Cortile Restaurant,798,4.6798,4.5,4.5,4.5,4.3,$31 to $50,2,1,6,18,73,Italian,0.0,Greenwich Village and Soho
+Il Mulino New York - Downtown,830,4.883,4.7,4.8,4.6,4.4,$50 and over,1,2,2,5,90,Italian,0.0,Greenwich Village and Soho
+Il Mulino New York - Uptown,910,4.691,4.7,4.5,4.4,4.1,$50 and over,2,2,6,14,76,Italian,0.0,Upper East Side
+Il Mulino Prime,272,4.5272,4.4,4.4,4.2,3.8,$50 and over,2,3,7,18,70,Italian,0.0,Greenwich Village and Soho
+Il Postino,473,4.6473,4.6,4.6,4.5,4.0,$50 and over,3,1,7,15,74,Italian,0.0,Gramercy Park and Murray Hill
+ilili,4981,4.6498099999999996,4.7,4.4,4.4,4.0,$31 to $50,1,1,5,19,74,Other,0.0,Chelsea and Clinton
+Inakaya,1087,4.51087,4.4,4.2,4.2,3.8,$31 to $50,1,2,8,27,62,Japanese & Koren,0.0,Chelsea and Clinton
+Indochine,1428,4.61428,4.6,4.3,4.5,4.1,$50 and over,0,1,7,20,72,Southeast Asian,0.0,Lower East Side
+Irvington,209,4.5209,4.2,4.0,4.1,3.8,$30 and under,2,2,7,28,61,Contemporary American,0.0,Lower East Side
+Jams - NYC,471,4.4471,4.2,4.2,4.3,3.8,$30 and under,0,4,9,26,61,American,0.0,Chelsea and Clinton
+Jue Lan Club,315,4.0315,3.7,3.8,4.1,3.5,$31 to $50,7,12,9,22,50,Chinese,0.0,Chelsea and Clinton
+Kellari Taverna,5209,4.45209,4.4,4.2,4.3,4.0,$31 to $50,1,3,8,25,63,Greek,0.0,Chelsea and Clinton
+Khe-Yo,640,4.763999999999999,4.6,4.4,4.5,4.1,$31 to $50,1,1,4,20,74,Southeast Asian,0.0,Greenwich Village and Soho
+Kingside,406,4.1406,4.0,3.6,3.8,3.5,$31 to $50,2,7,14,29,48,American,0.0,Chelsea and Clinton
+Kingsley,327,4.5327,4.4,4.5,4.3,3.9,$31 to $50,1,6,6,21,66,Contemporary American,0.0,Lower East Side
+La Fonda Del Sol,1141,4.41141,4.4,4.3,4.4,3.9,$31 to $50,0,1,10,31,58,Spanish,0.0,Chelsea and Clinton
+La Loteria,245,4.6245,4.5,4.3,4.2,4.1,$31 to $50,1,2,3,23,71,Mexican,0.0,Greenwich Village and Soho
+La Masseria,3664,4.63664,4.7,4.6,4.5,4.2,$31 to $50,0,1,4,24,71,Italian,0.0,Chelsea and Clinton
+La Pecora Bianca - Midtown,288,4.5288,4.4,4.1,4.4,4.0,$30 and under,1,2,6,25,66,Italian,0.0,Gramercy Park and Murray Hill
+La Pecora Bianca - NoMad,911,4.6911,4.5,4.3,4.5,4.2,$30 and under,1,1,4,21,73,Italian,0.0,Gramercy Park and Murray Hill
+La Sirena - The Dining Room,724,4.4724,4.3,4.2,4.3,3.9,$31 to $50,3,3,8,26,60,Italian,0.0,Chelsea and Clinton
+La Sirene,1442,4.61442,4.6,4.5,4.4,4.4,$31 to $50,1,1,4,24,70,French,0.0,Greenwich Village and Soho
+Lafayette,2128,4.52128,4.4,4.3,4.5,3.9,$31 to $50,2,2,6,21,69,French,0.0,Lower East Side
+Lavo - NYC,2317,4.62317,4.6,4.5,4.5,4.1,$50 and over,2,1,6,19,72,Italian,0.0,Gramercy Park and Murray Hill
+Le Colonial NYC,1860,4.4186,4.2,4.3,4.3,3.8,$31 to $50,2,4,8,27,59,Southeast Asian,0.0,Gramercy Park and Murray Hill
+Le Coq Rico,1035,4.71035,4.7,4.6,4.5,4.0,$31 to $50,0,1,5,18,76,French,0.0,Lower East Side
+Left Bank NYC,615,4.6615,4.4,4.4,4.3,4.1,$31 to $50,0,3,7,20,70,American,0.0,Greenwich Village and Soho
+LEGASEA,261,4.3261,4.3,4.2,4.1,3.7,$50 and over,2,2,11,30,55,Seafood,0.0,Chelsea and Clinton
+Leuca,491,4.6491,4.6,4.3,4.6,4.1,$31 to $50,0,2,6,22,70,Italian,0.0,
+Lexington Brass,1089,4.51089,4.4,4.2,4.2,3.9,$31 to $50,1,2,7,26,64,American,0.0,Gramercy Park and Murray Hill
+Lido,1047,4.51047,4.5,4.5,4.4,4.3,$30 and under,0,2,6,27,65,Italian,0.0,Central Harlem
+Limani - NYC,1406,4.61406,4.6,4.3,4.5,4.0,$50 and over,1,1,7,23,68,Mediterranean,0.0,Chelsea and Clinton
+Lincoln Ristorante,4697,4.64697,4.6,4.6,4.7,4.0,$31 to $50,1,2,5,19,73,Italian,0.0,Upper West Side
+Lincoln Square Steak,1976,4.51976,4.4,4.5,4.4,4.2,$50 and over,1,3,6,24,66,Steakhouse,0.0,Upper West Side
+Little Park,780,4.678,4.5,4.3,4.5,3.9,$31 to $50,1,2,6,18,73,Contemporary American,0.0,Lower Manhattan
+"Lorenzo's Restaurant, Bar & Caberet - Hilton Garden Inn - SI",110,4.511,4.6,4.7,4.5,4.4,$31 to $50,0,0,6,29,65,Italian,0.0,
+Lugo Cucina,1445,4.41445,4.2,4.3,4.0,3.9,$31 to $50,2,4,9,27,58,Italian,0.0,Chelsea and Clinton
+Lupa,4526,4.74526,4.6,4.5,4.4,4.3,$31 to $50,1,1,5,15,78,Italian,0.0,Greenwich Village and Soho
+Lure New York,3269,4.73269,4.7,4.4,4.5,4.1,$31 to $50,1,1,3,16,79,Seafood,0.0,Greenwich Village and Soho
+Maiella - LIC,1001,4.61001,4.6,4.4,4.7,4.2,$31 to $50,1,2,7,17,73,Italian,0.0,
+Maloney & Porcelli,2222,4.422219999999999,4.4,4.3,4.3,3.9,$50 and over,2,2,9,25,62,American,0.0,Gramercy Park and Murray Hill
+Manzo Ristorante - Eataly NYC Flatiron,697,4.5697,4.5,4.2,4.0,3.8,$31 to $50,1,3,8,22,66,Italian,0.0,Gramercy Park and Murray Hill
+MarkJoseph Steakhouse,814,4.7814,4.7,4.8,4.5,4.3,$50 and over,0,0,4,19,77,Steakhouse,0.0,Lower Manhattan
+Marseille,5752,4.45752,4.3,4.3,4.3,4.1,$31 to $50,1,2,8,32,57,French,0.0,Chelsea and Clinton
+Masseria dei Vini,1190,4.6119,4.6,4.6,4.4,4.1,$31 to $50,1,2,4,24,69,Italian,0.0,Chelsea and Clinton
+Massoni,191,4.4191,4.3,4.0,4.3,4.1,$31 to $50,2,6,7,22,63,Italian,0.0,Gramercy Park and Murray Hill
+Match 65 Brasserie (formerly Paris Match),638,4.5638,4.4,4.5,4.4,4.0,$31 to $50,0,2,8,25,65,French,0.0,Upper East Side
+Meet the Meat,191,4.8191,4.7,4.8,4.6,4.5,$31 to $50,0,2,2,14,82,Steakhouse,0.0,
+Mercer Kitchen,4598,4.54598,4.3,4.1,4.4,3.9,$30 and under,2,3,9,21,65,American,0.0,Greenwich Village and Soho
+Michael Jordan's The Steak House N.Y.C.,2160,3.9216,3.9,3.8,4.0,3.6,$31 to $50,3,8,19,38,32,Steakhouse,0.0,Gramercy Park and Murray Hill
+Michael's,1135,4.71135,4.6,4.6,4.6,4.1,$31 to $50,0,0,4,17,79,American,0.0,Chelsea and Clinton
+MIFUNE New York,55,4.455,4.5,4.4,4.4,4.1,$31 to $50,2,2,8,26,62,Japanese & Koren,0.0,Gramercy Park and Murray Hill
+Molyvos,4103,4.4410300000000005,4.4,4.3,4.2,3.9,$31 to $50,1,3,9,29,58,Greek,0.0,Chelsea and Clinton
+Momofuku Nishi,493,4.5493,4.5,4.5,4.2,3.9,$31 to $50,1,2,9,24,64,Contemporary American,0.0,Chelsea and Clinton
+Monkey Bar,970,4.697,4.3,4.4,4.6,3.9,$50 and over,1,2,7,18,72,American,0.0,Gramercy Park and Murray Hill
+Montebello Ristorante Italiano,612,4.4612,4.3,4.6,4.1,3.9,$31 to $50,0,0,15,31,54,Italian,0.0,Gramercy Park and Murray Hill
+Morimoto New York,5894,4.65894,4.6,4.5,4.6,4.0,$50 and over,1,2,5,17,75,Japanese & Koren,0.0,Chelsea and Clinton
+Morrell Wine Bar & Cafe,761,4.5761,4.2,4.2,4.4,3.8,$31 to $50,1,2,9,26,62,American,0.0,Chelsea and Clinton
+Morton's The Steakhouse - Midtown Manhattan,3031,4.63031,4.7,4.6,4.5,4.2,$50 and over,2,1,5,18,74,Steakhouse,0.0,Gramercy Park and Murray Hill
+Morton's The Steakhouse - World Trade Center,541,4.6541,4.7,4.7,4.6,4.5,$50 and over,1,2,5,17,75,Steakhouse,0.0,Lower Manhattan
+MR CHOW - 57th,1710,4.6171,4.6,4.6,4.4,4.0,$50 and over,1,3,8,12,76,Chinese,0.0,Gramercy Park and Murray Hill
+MR CHOW - TriBeca,1520,4.5152,4.4,4.4,4.5,3.8,$50 and over,3,3,6,12,76,Chinese,0.0,Greenwich Village and Soho
+Naoki Takahashi,92,4.692,4.6,4.6,4.7,4.3,$31 to $50,0,3,7,16,74,Japanese & Koren,0.0,Chelsea and Clinton
+Naples 45 Ristorante E Pizzeria,976,4.4976,4.2,4.1,3.9,3.7,$30 and under,1,3,10,31,55,Italian,0.0,
+Narcissa Restaurant,759,4.6759,4.4,4.3,4.5,4.0,$31 to $50,1,2,6,22,69,Contemporary American,0.0,Lower East Side
+Natsumi Restaurant,1620,4.5162,4.5,4.3,4.1,4.1,$31 to $50,0,1,9,32,58,Japanese & Koren,0.0,Chelsea and Clinton
+Neta,569,4.6569,4.6,4.4,4.1,3.9,$50 and over,1,3,6,20,70,Japanese & Koren,0.0,Chelsea and Clinton
+Nice Matin,2140,4.4214,4.3,4.3,4.2,4.0,$31 to $50,2,2,9,33,54,French,0.0,Upper West Side
+Nick & Stef’s Steakhouse - New York,1931,4.41931,4.3,4.4,4.1,3.7,$31 to $50,0,5,8,31,56,Steakhouse,0.0,Chelsea and Clinton
+Nickel & Diner,142,4.6142,4.5,4.4,4.5,4.2,$31 to $50,2,1,5,18,74,American,0.0,Greenwich Village and Soho
+Nobu Downtown | Bar & Lounge,33,4.7330000000000005,4.7,4.4,4.5,3.9,$50 and over,1,2,7,12,78,Japanese & Koren,0.0,Lower Manhattan
+Noreetuh,434,4.7434,4.7,4.7,4.5,4.4,$31 to $50,0,1,4,18,77,American,0.0,Lower East Side
+North Square,1681,4.61681,4.5,4.5,4.3,4.5,$31 to $50,1,2,5,28,64,American,0.0,Chelsea and Clinton
+Nougatine at Jean Georges,5918,4.65918,4.6,4.4,4.5,4.2,$31 to $50,0,2,5,19,74,French,0.0,Upper West Side
+NYY Steak Midtown- New York Yankees Steakhouse,995,4.7995,4.6,4.7,4.6,4.2,$31 to $50,0,1,4,21,74,Steakhouse,0.0,Chelsea and Clinton
+Obao,1702,4.317019999999999,4.3,4.2,4.2,4.2,$31 to $50,2,3,10,32,53,Southeast Asian,0.0,Chelsea and Clinton
+Obica Mozzarella Bar  Pizza e Cucina,546,4.4546,4.3,4.2,4.2,4.0,$31 to $50,2,2,8,26,62,Italian,0.0,Gramercy Park and Murray Hill
+Ocean Prime - New York,1701,4.71701,4.7,4.6,4.6,4.2,$31 to $50,0,1,4,17,78,Seafood,0.0,Chelsea and Clinton
+Orsay,1899,4.5189900000000005,4.3,4.3,4.4,3.9,$31 to $50,1,3,7,24,65,French,0.0,Upper East Side
+Ortzi by Jose Garces,250,4.525,4.5,4.5,4.2,4.0,$31 to $50,1,1,6,32,60,Spanish,0.0,Chelsea and Clinton
+Osteria della Pace - Eataly NYC Downtown,294,4.4294,4.3,4.3,4.4,3.9,$31 to $50,1,2,11,24,62,Italian,0.0,Lower Manhattan
+Ousia,383,4.5383,4.4,4.4,4.5,4.1,$31 to $50,1,1,10,26,62,Mediterranean,0.0,Chelsea and Clinton
+Pampano New York,1870,4.5187,4.4,4.3,4.3,4.0,$31 to $50,1,2,6,26,65,Mexican,0.0,Gramercy Park and Murray Hill
+Park Avenue Spring,1837,4.61837,4.6,4.5,4.7,4.2,$31 to $50,2,2,4,16,76,American,0.0,Gramercy Park and Murray Hill
+Pera Mediterranean Brasserie,1657,4.41657,4.4,4.2,4.1,3.8,$31 to $50,1,4,7,31,57,Mediterranean,0.0,Gramercy Park and Murray Hill
+Pera Soho,570,4.357,4.2,3.7,4.4,3.9,$31 to $50,3,5,9,25,58,Mediterranean,0.0,Greenwich Village and Soho
+Periyali,1781,4.71781,4.6,4.5,4.5,4.2,$31 to $50,0,1,5,19,75,Greek,0.0,Chelsea and Clinton
+Perrine,169,4.5169,4.4,4.5,4.4,3.9,$31 to $50,1,4,6,20,69,French,0.0,Upper East Side
+Perry St,3657,4.83657,4.7,4.7,4.6,4.3,$31 to $50,1,2,2,11,84,Contemporary American,0.0,Greenwich Village and Soho
+Philippe,2018,4.62018,4.6,4.4,4.2,4.0,$31 to $50,1,1,9,17,72,Chinese,0.0,Upper East Side
+Pig and Khao,979,4.7979,4.7,4.5,4.3,4.4,$31 to $50,1,1,5,16,77,Southeast Asian,0.0,Lower East Side
+Porsena,338,4.6338,4.6,4.3,4.4,4.2,$30 and under,0,2,6,23,69,Italian,0.0,Lower East Side
+Public Kitchen,298,4.5298,4.4,4.1,4.4,3.9,$31 to $50,2,2,8,19,69,Other,0.0,Lower East Side
+Rafele,1325,4.51325,4.6,4.3,4.4,4.3,$31 to $50,1,2,7,23,67,Italian,0.0,Greenwich Village and Soho
+Red Cat,3209,4.73209,4.6,4.7,4.5,4.3,$31 to $50,0,1,3,19,77,American,0.0,Chelsea and Clinton
+Red Rooster Harlem,5682,4.45682,4.4,4.2,4.4,4.0,$31 to $50,2,3,10,24,61,Other,0.0,Central Harlem
+Remi,2206,4.52206,4.5,4.4,4.5,4.1,$31 to $50,1,2,7,22,68,Italian,0.0,Chelsea and Clinton
+Reserve Cut at Setai,492,4.7492,4.6,4.6,4.7,4.0,$50 and over,1,3,3,12,81,Other,0.0,Lower Manhattan
+Restaurant Nippon,368,4.6368,4.4,4.6,4.1,3.9,$31 to $50,1,1,7,23,68,Japanese & Koren,0.0,Gramercy Park and Murray Hill
+Rice & Gold,128,4.2128,4.2,4.0,4.2,3.7,$31 to $50,3,5,11,28,53,Asian,0.0,Greenwich Village and Soho
+Ristorante Morini,1190,4.6119,4.6,4.4,4.4,4.1,$31 to $50,0,2,6,20,72,Italian,0.0,Chelsea and Clinton
+Riverpark,3113,4.631130000000001,4.5,4.5,4.7,4.1,$31 to $50,0,1,7,22,70,American,0.0,Gramercy Park and Murray Hill
+Rock Center Cafe,3316,4.43316,4.2,4.2,4.5,3.9,$31 to $50,1,2,11,28,58,Contemporary American,0.0,Chelsea and Clinton
+Root & Bone,704,4.6704,4.5,4.5,4.5,4.2,$31 to $50,1,2,7,18,72,Other,0.0,Lower East Side
+Rosa Mexicano - First Avenue,2015,4.52015,4.4,4.3,4.2,4.1,$31 to $50,1,2,7,23,67,Mexican,0.0,Gramercy Park and Murray Hill
+Rosa Mexicano - TriBeCa,247,4.2247,4.0,3.9,3.8,3.6,$31 to $50,3,6,13,24,54,Mexican,0.0,Lower Manhattan
+Rosa Mexicano - Union Square,3966,4.53966,4.4,4.4,4.4,4.1,$31 to $50,1,2,7,22,68,Mexican,0.0,Lower East Side
+Rosa Mexicano by Lincoln Center,6215,4.46215,4.3,4.2,4.2,4.0,$31 to $50,2,3,10,28,57,Mexican,0.0,Upper West Side
+Rossini's Restaurant,1132,4.71132,4.6,4.7,4.5,4.3,$31 to $50,0,1,5,18,76,Italian,0.0,Gramercy Park and Murray Hill
+Rotisserie Georgette,1011,4.71011,4.6,4.6,4.5,4.2,$30 and under,0,1,4,18,77,French,0.0,Gramercy Park and Murray Hill
+Royal 35 Steakhouse,411,4.7411,4.8,4.8,4.6,4.5,$50 and over,0,1,5,14,80,Steakhouse,0.0,Gramercy Park and Murray Hill
+Ruth's Chris Steak House - New York City - Midtown,4233,4.542330000000001,4.6,4.5,4.4,4.1,$31 to $50,1,3,8,21,67,Steakhouse,0.0,Chelsea and Clinton
+SAN CARLO  Osteria Piemonte,314,4.7314,4.6,4.6,4.5,4.3,$31 to $50,1,1,6,18,74,Italian,0.0,Greenwich Village and Soho
+Sant Ambroeus - West Village,505,4.7505,4.7,4.5,4.6,4.3,$31 to $50,1,1,2,14,82,Italian,0.0,Greenwich Village and Soho
+Sant Ambroeus SoHo,257,4.8257,4.7,4.5,4.6,4.3,$31 to $50,0,1,3,11,85,Italian,0.0,Greenwich Village and Soho
+Sarabeth's Central Park South,3570,4.4357,4.3,4.3,4.1,3.7,$30 and under,1,3,11,23,62,American,0.0,Chelsea and Clinton
+Sarabeth's East,690,4.369,4.2,4.2,4.1,3.8,$30 and under,1,4,11,26,58,American,0.0,Upper East Side
+Sarabeth's Park Avenue South,1604,4.51604,4.4,4.1,4.3,3.8,$30 and under,1,3,8,22,66,American,0.0,Greenwich Village and Soho
+Sarabeth's TriBeCa,1598,4.41598,4.3,4.1,4.2,3.9,$30 and under,1,4,11,24,60,American,0.0,Greenwich Village and Soho
+Sarabeth's West,1471,4.51471,4.4,4.3,4.1,3.8,$30 and under,1,3,8,28,60,American,0.0,Upper West Side
+Scampi,12,4.612,4.6,4.5,4.4,4.1,$30 and under,1,1,9,15,74,Italian,0.0,Chelsea and Clinton
+Scarpetta,3829,4.6382900000000005,4.6,4.5,4.6,4.0,$31 to $50,2,2,6,17,73,Italian,0.0,Gramercy Park and Murray Hill
+Schilling,234,4.4234,4.5,4.2,4.5,4.1,$30 and under,2,2,6,30,60,Other Europe,0.0,Upper East Side
+Sea Fire Grill,1734,4.61734,4.6,4.6,4.4,4.1,$31 to $50,0,1,5,23,71,Seafood,0.0,Gramercy Park and Murray Hill
+Serra by Birreria,1296,4.21296,4.0,3.7,4.4,3.5,$30 and under,3,5,16,25,51,Italian,0.0,Gramercy Park and Murray Hill
+Shun Lee Palace,1308,4.31308,4.2,4.2,4.0,3.7,$31 to $50,3,4,13,18,62,Chinese,0.0,Gramercy Park and Murray Hill
+Shun Lee West,2390,4.2239,4.1,4.1,4.0,3.5,$31 to $50,4,4,14,26,52,Chinese,0.0,Upper West Side
+Smith & Wollensky - New York,6405,4.56405,4.5,4.4,4.2,3.9,$50 and over,2,3,8,22,65,Steakhouse,0.0,Gramercy Park and Murray Hill
+Smoke Jazz and Supper Club,2155,4.42155,3.9,4.2,4.5,4.0,$31 to $50,2,7,5,24,62,Contemporary American,0.0,Upper West Side
+Socarrat Paella Bar - Chelsea,1151,4.61151,4.5,4.5,4.3,4.1,$31 to $50,1,1,6,23,69,Spanish,0.0,Chelsea and Clinton
+Socarrat Paella Bar - Midtown East,572,4.5572,4.4,4.4,4.3,4.1,$31 to $50,1,2,8,30,59,Spanish,0.0,Gramercy Park and Murray Hill
+Socarrat Paella Bar - Nolita,634,4.5634,4.4,4.4,4.4,4.1,$31 to $50,1,3,7,21,68,Spanish,0.0,Greenwich Village and Soho
+Society Cafe,132,4.4132,4.2,4.2,4.4,4.0,$31 to $50,1,4,12,24,59,American,0.0,Chelsea and Clinton
+Sofrito NYC,566,3.9566,4.1,3.7,4.2,3.7,$30 and under,10,10,13,8,59,Spanish,0.0,Inwood and Washington Heights
+SOUTHGATE Bar & Restaurant,768,4.3768,4.2,4.2,4.3,3.7,$31 to $50,0,6,14,18,62,American,0.0,Chelsea and Clinton
+STATE Grill and Bar,492,4.3492,4.4,4.4,4.3,4.1,$31 to $50,1,3,14,25,57,American,0.0,
+Stella 34 Trattoria,1973,4.41973,4.4,4.3,4.3,4.0,$30 and under,1,2,9,32,56,Italian,0.0,Chelsea and Clinton
+STK - NYC - Meatpacking,1513,4.41513,4.5,4.1,4.4,3.8,$31 to $50,3,3,11,21,62,Steakhouse,0.0,Greenwich Village and Soho
+STK - NYC - Midtown,2678,4.5267800000000005,4.5,4.2,4.5,3.8,$31 to $50,2,3,8,21,66,Steakhouse,0.0,Chelsea and Clinton
+Storico,1240,4.3124,4.2,4.2,4.2,3.9,$31 to $50,1,3,11,34,51,Italian,0.0,Upper West Side
+Strip House Midtown,1586,4.51586,4.5,4.4,4.4,3.8,$50 and over,2,3,5,21,69,Steakhouse,0.0,Chelsea and Clinton
+Strip House Speakeasy,222,4.6222,4.7,4.6,4.6,4.1,$50 and over,0,1,6,26,67,Steakhouse,0.0,Lower East Side
+Sutton Inn,685,4.6685,4.7,4.6,4.4,4.4,$30 and under,1,1,4,25,69,American,0.0,Gramercy Park and Murray Hill
+Suzuki,88,4.588,4.4,4.6,4.4,4.1,$50 and over,2,2,5,23,68,Japanese & Koren,0.0,Chelsea and Clinton
+Taboon,1545,4.71545,4.7,4.5,4.4,4.1,$50 and over,0,1,3,20,76,Other,0.0,Chelsea and Clinton
+Talde,216,4.4216,4.4,4.3,4.2,4.0,$30 and under,1,3,10,26,60,Asian,0.0,
+Tamarind - Tribeca,2458,4.7245800000000004,4.7,4.6,4.6,4.2,$31 to $50,1,1,4,16,78,Indian,0.0,Greenwich Village and Soho
+Tao Downtown,2291,4.62291,4.5,4.3,4.7,4.1,$50 and over,2,2,7,16,73,Asian,0.0,Chelsea and Clinton
+Tao Uptown,10600,4.6106,4.5,4.4,4.6,4.1,$31 to $50,1,2,7,21,69,Asian,0.0,Gramercy Park and Murray Hill
+Tarallucci e Vino NoMad,116,4.3116,4.1,4.0,4.1,3.7,$31 to $50,1,6,10,29,54,Italian,0.0,Gramercy Park and Murray Hill
+Tavern 62 by David Burke,518,4.4518,4.4,4.4,4.5,4.0,$31 to $50,2,2,10,25,61,American,0.0,Upper East Side
+Tavern on the Green,7029,4.6702900000000005,4.4,4.4,4.7,4.0,$31 to $50,1,2,6,19,72,American,0.0,Upper West Side
+T-BAR Steak & Lounge (Upper East Side),1270,4.6127,4.5,4.4,4.3,4.1,$31 to $50,1,1,5,24,69,Steakhouse,0.0,Upper East Side
+Ted's Montana Grill - NYC,938,4.3938,4.2,4.2,4.1,4.0,$31 to $50,3,2,7,37,51,American,0.0,Chelsea and Clinton
+Temple Court,392,4.6392,4.5,4.4,4.7,4.1,$31 to $50,1,1,7,20,71,American,0.0,Lower East Side
+Tender Restaurant,488,4.3488,4.3,4.2,4.2,3.8,$31 to $50,2,2,10,39,47,American,0.0,Chelsea and Clinton
+Thalassa,1224,4.61224,4.6,4.6,4.7,4.4,$31 to $50,1,1,4,23,71,Seafood,0.0,Greenwich Village and Soho
+The Capital Grille - NY – Chrysler Center,3491,4.73491,4.7,4.7,4.6,4.2,$50 and over,0,1,4,17,78,Steakhouse,0.0,Gramercy Park and Murray Hill
+The Capital Grille - NY – Time Life Building,3338,4.73338,4.6,4.6,4.6,4.2,$50 and over,1,1,5,17,76,Steakhouse,0.0,Chelsea and Clinton
+The Cecil Steakhouse,1213,4.21213,4.2,4.1,4.4,4.0,$31 to $50,4,5,12,25,54,American,0.0,Central Harlem
+The Dining Room at The Metropolitan Museum of Art,939,4.4939,4.4,4.2,4.4,3.8,$50 and over,2,3,9,27,59,Contemporary American,0.0,Upper East Side
+The Dutch,2125,4.62125,4.5,4.4,4.4,3.9,$31 to $50,1,2,6,19,72,American,0.0,
+The House in Gramercy Park,1193,4.51193,4.4,4.5,4.5,4.0,$31 to $50,2,1,8,22,67,American,0.0,Lower East Side
+The Lambs Club - Bar,376,4.6376,4.3,4.5,4.5,3.8,$50 and over,1,1,8,17,73,Contemporary American,0.0,Chelsea and Clinton
+The Leopard at des Artistes,1329,4.5132900000000005,4.4,4.5,4.6,4.0,$50 and over,2,2,5,24,67,Italian,0.0,Upper West Side
+The Library at the Public,801,4.2801,4.0,4.5,4.5,3.7,$30 and under,2,3,13,33,49,American,0.0,Lower East Side
+The Morgan Dining Room,351,4.4351,4.2,4.4,4.5,4.0,$30 and under,1,3,10,24,62,American,0.0,Gramercy Park and Murray Hill
+The National Bar & Dining Rooms,2319,4.42319,4.2,4.0,4.0,3.7,$30 and under,1,2,10,29,58,Contemporary American,0.0,Gramercy Park and Murray Hill
+The Palm Tribeca,1560,4.6156,4.5,4.5,4.3,4.0,$50 and over,1,2,4,19,74,Steakhouse,0.0,
+The Sea Grill,3392,4.63392,4.6,4.6,4.6,4.1,$31 to $50,0,3,4,20,73,Seafood,0.0,Chelsea and Clinton
+The Shakespeare,255,4.6255,4.3,4.5,4.5,4.1,$31 to $50,0,2,8,18,72,Other Europe,0.0,Gramercy Park and Murray Hill
+The Stanton Social,5150,4.6515,4.5,4.4,4.5,4.0,$31 to $50,1,3,6,16,74,Other,0.0,Lower East Side
+The Tuck Room- New York,160,4.1160000000000005,4.0,4.0,4.4,3.7,$30 and under,4,8,11,27,50,Other,0.0,Lower Manhattan
+The View Restaurant,10389,4.310389,4.2,4.4,4.5,3.7,$31 to $50,2,5,10,25,58,Contemporary American,0.0,Chelsea and Clinton
+The Wayfarer,626,4.5626,4.3,4.2,4.2,3.8,$31 to $50,1,2,7,22,68,American,0.0,Chelsea and Clinton
+The Whitby Bar and Restaurant,162,4.6162,4.4,4.4,4.8,4.1,$31 to $50,0,2,8,18,72,American,0.0,Chelsea and Clinton
+Tiny's & the Bar Upstairs,663,4.6663,4.5,4.2,4.5,4.1,$31 to $50,1,1,6,19,73,Contemporary American,0.0,Lower East Side
+Toloache Thompson St.,381,4.5381,4.4,4.0,4.1,3.9,$31 to $50,2,2,8,20,68,Mexican,0.0,Greenwich Village and Soho
+Toloache-Midtown,5178,4.55178,4.5,4.4,4.1,4.0,$30 and under,1,2,7,28,62,Mexican,0.0,Greenwich Village and Soho
+Tommy Bahama - New York,1466,4.61466,4.5,4.5,4.5,4.2,$30 and under,1,1,5,23,70,American,0.0,
+Trattoria Italienne,96,4.796,4.7,4.7,4.7,4.4,$30 and under,0,1,3,15,81,Italian,0.0,Gramercy Park and Murray Hill
+Trattoria Zero Otto Nove,893,4.6893,4.5,4.6,4.3,4.2,$31 to $50,2,1,6,23,68,Italian,0.0,Gramercy Park and Murray Hill
+Tribeca Grill,4361,4.44361,4.2,4.3,4.3,3.9,$31 to $50,1,3,11,27,58,American,0.0,Greenwich Village and Soho
+Triomphe,1552,4.41552,4.3,4.5,4.3,3.8,$31 to $50,1,3,14,17,65,French,0.0,Chelsea and Clinton
+Tudor City Steak House,76,4.376,4.4,4.4,4.4,3.9,$31 to $50,2,7,5,28,58,Steakhouse,0.0,Gramercy Park and Murray Hill
+Tuome,385,4.7385,4.7,4.6,4.5,4.1,$31 to $50,0,2,5,18,75,Contemporary American,0.0,Lower East Side
+Tutto Il Giorno -Tribeca,315,4.7315,4.6,4.4,4.8,4.3,$50 and over,1,1,5,16,77,Italian,0.0,Greenwich Village and Soho
+Untitled at the Whitney,1014,4.61014,4.6,4.5,4.4,4.1,$31 to $50,0,2,8,19,71,American,0.0,Greenwich Village and Soho
+Vandal,1829,4.61829,4.5,4.4,4.7,4.1,$50 and over,1,2,6,20,71,Other,0.0,Lower East Side
+Vaucluse,1078,4.5107800000000005,4.5,4.4,4.5,4.0,$31 to $50,1,3,8,18,70,French,0.0,Upper East Side
+Yellow Magnolia Café,91,4.391,4.4,4.1,4.3,3.9,$30 and under,3,3,7,32,55,American,0.0,
+Zengo - NYC,1909,4.51909,4.4,4.2,4.4,4.2,$31 to $50,1,2,9,25,63,Asian,0.0,Gramercy Park and Murray Hill
+Zio Ristorante,546,4.6546,4.5,4.6,4.5,4.4,$31 to $50,1,3,4,24,68,Italian,0.0,Chelsea and Clinton
+Zuma Japanese Restaurant - NY,678,4.7678,4.6,4.4,4.6,4.1,$50 and over,1,1,6,18,74,Japanese & Koren,0.0,Gramercy Park and Murray Hill
